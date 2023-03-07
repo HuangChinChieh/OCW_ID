@@ -3807,7 +3807,7 @@ main.innerMain.fixed {
     .icon-mask.icon-all-tt:before {
         -webkit-mask-image: url(../images/icon/ico-all-tt.svg);
         mask-image: url(../images/icon/ico-all-tt.svg)
-    }
+    }   
 
     .icon-mask.icon-hot-tt:before {
         -webkit-mask-image: url(../images/icon/ico-hot-tt-jp.svg);
