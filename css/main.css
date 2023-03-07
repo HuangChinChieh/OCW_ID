@@ -3812,7 +3812,7 @@ main.innerMain.fixed {
     .icon-mask.icon-hot-tt:before {
         -webkit-mask-image: url(../images/icon/ico-hot-tt-jp.svg);
         mask-image: url(../images/icon/ico-hot-tt-jp.svg)
-    }
+    }   
 
     .icon-mask.icon-etc-tt:before {
         -webkit-mask-image: url(../images/icon/ico-etc-tt-jp.svg);
